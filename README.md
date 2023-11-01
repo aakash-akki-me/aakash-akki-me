@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aakash
+- 👋 Hi, I’m @Aakash Kaushik
 - 👀 I’m interested in creating products to make life easear and innovation in different things.
-- 🌱 I’m currently learning Web Development and python
-- 💞️ I’m looking to collaborate on projects on web development
+- 🌱 I’m currently working as Web Developer and working with python.
+- 💞️ I’m open to work on web-apps and ready to collaborate on projects on web development
 - 📫 How to reach me on aakshkaushik2@gmail.com
 
 <!---
